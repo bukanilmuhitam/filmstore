@@ -20,7 +20,16 @@ body{
 
     padding: 20px;
     background-color  : none;
+    position: sticky;
+    top:0;
+}
 
+.bg-black{ 
+    background-color: #474444;;
+}
+
+header{
+    display: inline;
 }
 
 .content-menu{
